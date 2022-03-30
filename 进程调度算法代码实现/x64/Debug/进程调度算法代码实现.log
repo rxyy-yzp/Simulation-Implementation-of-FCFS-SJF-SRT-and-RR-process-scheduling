@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\86139\Desktop\DUT\3-2操作系统\作业\第7节作业\进程调度算法代码实现\进程调度算法代码实现\main.cpp(43,62): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86139\Desktop\DUT\3-2操作系统\作业\第7节作业\进程调度算法代码实现\进程调度算法代码实现\main.cpp(108,43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86139\Desktop\DUT\3-2操作系统\作业\第7节作业\进程调度算法代码实现\进程调度算法代码实现\main.cpp(136,62): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86139\Desktop\DUT\3-2操作系统\作业\第7节作业\进程调度算法代码实现\进程调度算法代码实现\main.cpp(155,51): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86139\Desktop\DUT\3-2操作系统\作业\第7节作业\进程调度算法代码实现\进程调度算法代码实现\main.cpp(196,62): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86139\Desktop\DUT\3-2操作系统\作业\第7节作业\进程调度算法代码实现\进程调度算法代码实现\main.cpp(241,55): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86139\Desktop\DUT\3-2操作系统\作业\第7节作业\进程调度算法代码实现\进程调度算法代码实现\main.cpp(281,62): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86139\Desktop\DUT\3-2操作系统\作业\第7节作业\进程调度算法代码实现\进程调度算法代码实现\main.cpp(295,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86139\Desktop\DUT\3-2操作系统\作业\第7节作业\进程调度算法代码实现\进程调度算法代码实现\main.cpp(297,55): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86139\Desktop\DUT\3-2操作系统\作业\第7节作业\进程调度算法代码实现\进程调度算法代码实现\main.cpp(316,38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86139\Desktop\DUT\3-2操作系统\作业\第7节作业\进程调度算法代码实现\进程调度算法代码实现\main.cpp(317,57): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  进程调度算法代码实现.vcxproj -> C:\Users\86139\Desktop\DUT\3-2操作系统\作业\第7节作业\进程调度算法代码实现\x64\Debug\进程调度算法代码实现.exe
